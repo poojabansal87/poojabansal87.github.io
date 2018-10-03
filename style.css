@@ -1,0 +1,27 @@
+h1{
+    color: purple;
+}
+
+#blue_style{
+    color:blue;
+}
+
+#red_style{
+    color:red;
+}
+
+#bg-black{
+    background-color: black;
+}
+
+#font40{
+    font-size: 40px;
+}
+
+#fontwt{
+    font-weight: bold;
+}
+
+#font10{
+    font-size: 10px;
+}
